@@ -1,0 +1,6 @@
+name = "PiKitRegistry"
+uuid = "7d179d34-5c4f-4e71-b861-264d24923490"
+repo = "https://github.com/lysharedfuture/PiKitRegistry.git"
+description = "Development registry for the PiKit stack (PiAISDK, PiAgentCore, PiCodingAgent, PiKit)."
+
+[packages]
