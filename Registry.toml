@@ -4,3 +4,4 @@ repo = "https://github.com/lysharedfuture/PiKitRegistry.git"
 description = "Development registry for the PiKit stack (PiAISDK, PiAgentCore, PiCodingAgent, PiKit)."
 
 [packages]
+9de19040-de4d-4d6c-8f46-3781ce430fcc = { name = "PiAISDK", path = "P/PiAISDK" }
