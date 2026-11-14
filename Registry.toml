@@ -5,3 +5,4 @@ description = "Development registry for the PiKit stack (PiAISDK, PiAgentCore, P
 
 [packages]
 9de19040-de4d-4d6c-8f46-3781ce430fcc = { name = "PiAISDK", path = "P/PiAISDK" }
+d1542b5d-b113-412f-adf4-78ec6fbb7806 = { name = "PiAgentCore", path = "P/PiAgentCore" }

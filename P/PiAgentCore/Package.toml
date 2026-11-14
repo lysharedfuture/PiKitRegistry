@@ -1,0 +1,4 @@
+name = "PiAgentCore"
+uuid = "d1542b5d-b113-412f-adf4-78ec6fbb7806"
+repo = "https://github.com/lysharedfuture/PiKit.jl.git"
+subdir = "PiAgentCore"
