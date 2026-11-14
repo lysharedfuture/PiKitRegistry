@@ -1,0 +1,4 @@
+name = "PiCodingAgent"
+uuid = "0b8fd38c-6e68-41ee-b4d7-56f7890dc08d"
+repo = "https://github.com/lysharedfuture/PiKit.jl.git"
+subdir = "PiCodingAgent"

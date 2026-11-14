@@ -1,0 +1,7 @@
+[0]
+HTTP = "1.10.0-1"
+PiAISDK = "0.2"
+PiAgentCore = "0.2"
+fd_jll = "10.3.0-10"
+julia = "1.13.0-1"
+ripgrep_jll = "15.2.0-15"
